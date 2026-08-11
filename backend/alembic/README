@@ -1,0 +1,3 @@
+Alembic migrations for the Maple Wallet PostgreSQL database.
+
+Set DATABASE_URL in backend/.env before running Alembic commands.
